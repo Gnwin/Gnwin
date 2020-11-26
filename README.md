@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/gmarxr" target="blank"><img src="https://img.shields.io/twitter/follow/gmarxr?logo=twitter&style=for-the-badge" alt="gmarxr" /></a> </p>
 
-- 🔭 I’m currently working on **Bootstrap Framework**
+- 🔭 I’m currently working on **Ruby**
 
 - 🌱 I’m currently learning **SQL**
 

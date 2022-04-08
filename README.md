@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Godwin Nwachukwu</h1>
-<h3 align="center">A passionate Full-stack software engineer. I am all about building Solutions that will make your existence a lot more fun than it already is.</h3>
+<h3 align="center">A passionate Full-stack software engineer. I am all about building solutions that will make your existence a lot more fun than it already is.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gnwin&label=Profile%20views&color=0e75b6&style=flat" alt="gnwin" /> </p>
 

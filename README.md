@@ -14,7 +14,7 @@
 
 - 📝 I regulary write articles on [medium.com/@nwgwin](https://medium.com/@nwgwin)
 
-- 💬 Ask me about **javascript**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **nwgwin@gmail.com**
 
